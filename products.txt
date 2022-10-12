@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "addasd",
+    "price": "tyut"
+  },
+  {
+    "id": 2,
+    "name": "ghgfh",
+    "price": "hgfhfgh"
+  },
+  {
+    "id": 3,
+    "name": "asdasd",
+    "price": "sadsdaasdasdasdasd"
+  },
+  {
+    "id": 4,
+    "name": "popo",
+    "price": "qwe"
+  },
+  {
+    "id": 5,
+    "name": "pepepepe",
+    "price": "lala"
+  },
+  {
+    "id": 6,
+    "name": "camisa",
+    "price": "300"
+  }
+]
